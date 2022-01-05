@@ -21,5 +21,4 @@ if __name__ == '__main__':
             if (teste):
                 print('down ' + agora )
                 teste = False
-                #reset_vpn_globo()
                 time.sleep(60)
